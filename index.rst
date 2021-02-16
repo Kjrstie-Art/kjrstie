@@ -60,3 +60,22 @@ Sections
 
          :doc:`/editors/index`
             Overview of the interface and functionality of all editors.
+            
+            
+Description
+===========
+
+Animation :kbd:`Shift-Spacebar`
+   This menu allows you to change the animation Play Settings from the viewport.
+
+Apply Transforms :kbd:`Ctrl-A`
+   This menu allows you to change the mode of the manipulator to move, rotate, scale or combination using.
+
+Edit Align :kbd:`Alt-X`
+   This menu allows you to align vertices/edges/faces to each other in Edit Mode.
+
+Edit Delete :kbd:`X`
+   Extended menu for deletion of vertices/edges/faces in Edit Mode.
+
+Editor Switch :kbd:`Ctrl-Alt-S`
+   Switch Editor Modes from any editor space.
