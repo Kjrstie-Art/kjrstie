@@ -1,0 +1,34 @@
+Calmar Solutions - Business Minimal Theme
+You can purchase this Theme which we will fit to your needs on our Page: https://www.calmarsolutions.ch/index.php/produkte/?&SingleProduct=8
+All you need to do is send us your Photos, Text and whatever else you want on your page. We can also host it for you.
+
+---INSTRUCTIONS---
+--A FEW STEPS TO HAPPINESS--
+-LETS GET THIS DONE!-
+
+1. 	Swap out the Images you need, with those in this folder: ./images/
+
+2. 	Change the two base colors in the style.css file (blue: #5e7a96, yellow: #dcd06f) on all lines.
+
+3. 	Change the MAIN HEADER text on index.html, galerie.html, kontakt.html and about.html on
+		line 23 --> <h1 class="main_header">BIG TEXT<span>SMALL TEXT</span></h1>
+	
+4. 	Change the PAGE DESCRIPTION text on index.html, galerie.html, kontakt.html and about.html on
+		line 10 --> <title>YOUR PAGE TITLE</title>
+
+5. 	Change the FOOTER DESCRIPTION text on index.html, galerie.html, kontakt.html and about.html at the END of the files (We would be pleased if you keep our URL in the footer as a little thanks for our work =] )
+		<div class="footer_area">
+			<p>YOUR ADDRESS - www.calmarsolutions.ch</p>
+		</div>
+
+6. 	Change the Contact-Form Text in kontakt.html and about.html, or swap it with text.
+		-OPTION 1 (HARD): Use PHP to change it to a working contact form. You will need a bit of experience in PHP to do that. So we recommend you ask someone with knowledge in PHP to do this for you. https://goo.gl/hdI0x5
+		-OPTION 2 (EASY): Remove everything from here: <form action="/action_page.php"> to here </form> and insert text with <h2>YOUR TEXT</h2> or/and <p>YOUR TEXT</p>
+
+7. 	Change the rest of the text on about.html and kontakt.html file in
+		<div class="grid_contact_item contact_item1">
+			<h1>HEADER</h1>
+			<p>PARAGRAPH TEXT</p>
+		</div>
+
+8.	NEED HELP? Contact us https://www.calmarsolutions.ch/ - infoweb@calmarsolutions.ch and reffer to freecss to get 20% off your Purchase or Custom HTML job.
